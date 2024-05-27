@@ -23,10 +23,10 @@
 
 ## Как запустить
 
-1. **В терминале запустить команды:**
+1. **В терминале запустить команду:**
     ```bash
-    git clone https://github.com/ваш-аккаунт/stellar-burgers-api-tests.git
-    cd stellar-burgers-api-tests
+    git clone https://github.com/ваш_аккаунт/Diplom_2.git
+    
     ```
 
 2. **Запустите все тесты:**
